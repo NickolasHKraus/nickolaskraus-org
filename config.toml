@@ -17,8 +17,10 @@ googleAnalytics = "UA-115911814-1"
 [[params.social]]
   email = "nickhkraus@gmail.com"
   github = "https://github.com/NickolasHKraus"
+  instagram = ""
   linkedin = "https://linkedin.com/in/nickolas-kraus"
   stackoverflow = "https://stackoverflow.com/users/9659079/nickolashkraus"
+  strava = ""
   twitter = "https://twitter.com/NickolasHKraus"
 
 [[menu.main]]
@@ -30,6 +32,9 @@ googleAnalytics = "UA-115911814-1"
 [[menu.main]]
     name = "Projects"
     url  = "/projects"
+[[menu.main]]
+    name = "Triathlon"
+    url  = "/triathlon"
 [[menu.main]]
     name = "Resume"
     url  = "/resume.pdf"
